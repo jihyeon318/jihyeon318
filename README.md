@@ -24,9 +24,9 @@
 
 <div align="center" style="text-align:center">
 
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jihyeon318&tag=English)](https://velog.io/@jihyeon318)
+  [![Velog's GitHub stats](https://velog.io/@jihyeon318?tag=swift)](https://velog.io/@jihyeon318)
   <br>
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jihyeon318&tag=Java)](https://velog.io/@jihyeon318)
+  [![Velog's GitHub stats](https://velog.io/@jihyeon318/Toy-Project-My-True-Feelings)](https://velog.io/@jihyeon318)
 </div>
 
 <h3 align="center"> 🧸 Me 🧸 </h3>
