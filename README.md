@@ -4,34 +4,29 @@
   
   <h3 align="center">🛠 Tech Stack 🛠</h3>
 
-  <p align="center"> Techs that I've used at least once </p>
+  <p align="center"> Tech that I can use skillfully </p>
 
  
 <p align="center">  
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
-  <br>
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>&nbsp
 </p>
 
 <br>
-<h3 align="center">✨ Blog ✨</h3>
+<p align="center"> Techs that I've used at least once </p>
 
-<div align="center" style="text-align:center">
-
-  [![Velog's GitHub stats](https://velog.io/@jihyeon318?tag=swift)](https://velog.io/@jihyeon318)
-  <br>
-  [![Velog's GitHub stats](https://velog.io/@jihyeon318/Toy-Project-My-True-Feelings)](https://velog.io/@jihyeon318)
-</div>
+<p align="center"> 
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
+</p>
 
 <h3 align="center"> 🧸 Me 🧸 </h3>
 <p align="center">
-  <a href="https://velog.io/@jihyeon318"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@jihyeon318"/></a>&nbsp
+  <a href="https://velog.io/@jihyeon318"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@jihyeon318"/></a>&nbsp
   <a href="https://www.instagram.com/develxxper/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/develxxper/"/></a>&nbsp
   <a href="mailto:jihyeon318@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jihyeon318@naver.com"/></a>
 </p>
