@@ -12,6 +12,9 @@
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>&nbsp
+  <br>
+  <img src="https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=Word&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=PowerPoint&logoColor=white"/></a>&nbsp
 </p>
 
 <br>
