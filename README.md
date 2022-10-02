@@ -27,7 +27,7 @@
 <h3 align="center"> 🧸 Me 🧸 </h3>
 <p align="center">
   <a href="https://velog.io/@jihyeon318"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@jihyeon318"/></a>&nbsp
-  <a href="https://www.instagram.com/gulbi_arcive/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gulbi_arcive/"/></a>&nbsp
+  <a href="https://www.instagram.com/gulbi_archive/?igshid=YmMyMTA2M2Y%3D"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gulbi_archive/?igshid=YmMyMTA2M2Y%3D"/></a>&nbsp
   <a href="mailto:jihyeon318@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jihyeon318@naver.com"/></a>
 </p>
 
